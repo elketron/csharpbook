@@ -42,7 +42,7 @@ Mannen leven maximum tot hun 120 jaar. Vrouwen tot 150 jaar. Laat het orakel een
 # Casino
  Genereer  een random getal maar toon dit niet aan de gebruiker. Vraag aan de gebruiker welk getal hij denkt dat de computer heeft "geworpen". Indien de gebruiker juist raadt verschijnt er "proficiat" op het scherm. Anders: "you lose".
 
- # Casino 3
+ # Casino 2
  Vul de voorgaande oefening aan, maar laat de gebruiker 3x na mekaar raden. Enkel als hij juist raadt mag hij nog eens raden. Als hij ook de derde juist raadt wint hij. In alle andere gevallen niet.
 
 # Quiz
